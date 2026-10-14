@@ -140,5 +140,5 @@ The implementations include basic error handling for:
 
 ## Author
 
-Tanishq Gupta— see root `README.md` for portfolio links and resume.
+Tanishq Gupta.
 ```
