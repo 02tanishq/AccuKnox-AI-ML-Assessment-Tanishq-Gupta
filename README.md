@@ -101,7 +101,6 @@ All repositories are public unless noted. Private repos available on request.
 
 Python, REST API, JSON, SQLite, SQL, CSV, Matplotlib, Requests, Vector Databases, RAG, LLM, Pathlib
 
-For submission: this repository (`9bishal/accuknox-ai-ml-assessment`) or drive link available on request.
 
 ---
 
