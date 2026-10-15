@@ -82,7 +82,7 @@ As requested in Problem Statement 1:
 
 ### Most Complex Python Code
 
-1. **Autonomous Research Verification Agent (5-Agent LangGraph)** — Orchestrator, Research, Analyst, Writer, Fact-Checker agents with LangGraph `StateGraph`, Groq model tiering, and automated report generation.
+1. **Research Verification Agent (5-Agent LangGraph)** — Orchestrator, Research, Analyst, Writer, Fact-Checker agents with LangGraph `StateGraph`, Groq model tiering, and automated report generation.
    - **Link:** <https://github.com/02tanishq/Research-Verification-Agent>
 
 2. **ResearchRAG** - An autonomous AI Research Report Generator featuring multi-stage RAG, FAISS vector search, Cross-Encoder reranking, contradiction detection, and citation provenance verification across academic PDF literature.
