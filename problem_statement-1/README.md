@@ -7,7 +7,7 @@ the AccuKnox AI/ML technical assessment.
 
 ### 1. API Data Retrieval and Storage
 
-**File:** `01_api_to_sqlite.py`
+**File:** `01_api_to_local_database.py`
 
 The program retrieves book information from the Open Library REST API,
 processes the JSON response, stores the relevant fields in a local
@@ -104,14 +104,14 @@ Run the individual programs (from either repository root or `problem_statement_1
 
 ```bash
 # From repository root
-python3 problem_statement_1/01_api_to_sqlite.py
-python3 problem_statement_1/02_student_scores.py
+python3 problem_statement_1/01_api_to_local_database.py
+python3 problem_statement_1/02_DATA_Processing_visualization.py
 python3 problem_statement_1/03_csv_to_sqlite.py
 
 # Or from inside the folder
 cd problem_statement_1
-python3 01_api_to_sqlite.py
-python3 02_student_scores.py
+python3 01_api_to_local_database.py
+python3 02_DATA_Processing_visualization.py
 python3 03_csv_to_sqlite.py
 ```
 Database
