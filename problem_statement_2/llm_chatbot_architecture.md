@@ -27,8 +27,8 @@ high-level approach for building such a system.
                                 │
                                 ▼
                     ┌────────────────────────┐
-                    │ Authentication &        │
-                    │ Authorization           │
+                    │ Authentication &       │
+                    │ Authorization          │
                     └───────────┬────────────┘
                                 │
                                 ▼
