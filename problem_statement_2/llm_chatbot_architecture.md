@@ -46,16 +46,16 @@ high-level approach for building such a system.
                      │                     │
                      ▼                     ▼
              Conversation DB        Vector Database
-                                         ▲
-                                         │
-                                  ┌──────┴──────┐
-                                  │  Embeddings │
-                                  └──────┬──────┘
-                                         ▲
-                                         │
-                                  ┌──────┴──────┐
-                                  │  Documents  │
-                                  └─────────────┘
+                     |                    ▲
+                     |                    │
+                     |             ┌──────┴──────┐
+                     |             │  Embeddings │
+                     |             └──────┬──────┘
+                     |                    ▲
+                     |                    │
+                     |             ┌──────┴──────┐
+                     |             │  Documents  │
+                     |             └─────────────┘
                      │
                      ▼
              ┌─────────────────┐
